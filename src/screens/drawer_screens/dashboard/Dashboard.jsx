@@ -1,9 +1,9 @@
 import React from 'react'
-import { TabNavigator } from '../../../navigation/TabNavigator'
+import { TopTabNavigator } from '../../../navigation/TopTabNavigator'
 
 const Dashboard = () => {
   return (
-    <TabNavigator/>
+    <TopTabNavigator/>
   )
 }
 
